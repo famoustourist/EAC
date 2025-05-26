@@ -10,7 +10,7 @@ In response to the challenge of hallucinations in the output of LLM due to false
 
 In this paper, we first analyze that the factor affecting the general abilities in sequential model editing, and then propose a framework termed Editing Anchor Compression (EAC).
 
-<img src="https://github.com/famoustourist/EAC/edit/main/definition.jpg" width=80%>
+<img src="https://github.com/famoustourist/EAC/blob/main/definition.jpg" width=80%>
 
 ## Datasets
 The datasets are included in `data/`. There are three folders:
