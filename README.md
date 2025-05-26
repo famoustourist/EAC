@@ -2,7 +2,7 @@
 
 This repository contains the source code for the paper:
 - [Constraining Sequential Model Editing with Editing Anchor Compression](https://arxiv.org/pdf/2503.00035.pdf). <br>
-  Hao-Xiang Xu, Jun-Yu Ma, Zhen-Hua Ling, Ningyu Zhang Jia-Chen Gu<br>
+  Hao-Xiang Xu, Jun-Yu Ma, Zhen-Hua Ling, Ningyu Zhang, Jia-Chen Gu<br>
   _NAACL 2025 Findings_ <br>
 
 ## Overview
