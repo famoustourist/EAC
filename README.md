@@ -90,11 +90,18 @@ python test-task-after.py NLI Instance-Sequential ROME-EAC 200 204 1
 ## Citation
 If you use this code and dataset, please cite our paper:
 ```bibtex
-@article{xu2025constraining,
-  title={Constraining Sequential Model Editing with Editing Anchor Compression},
-  author={Xu, Hao-Xiang and Ma, Jun-Yu and Ling, Zhen-Hua and Zhang, Ningyu and Gu, Jia-Chen},
-  journal={arXiv preprint arXiv:2503.00035},
-  year={2025}
+@inproceedings{xu-etal-2025-constraining,
+    title = "Constraining Sequential Model Editing with Editing Anchor Compression",
+    author = "Xu, Hao-Xiang  and
+              Ma, Jun-Yu  and
+              Ling, Zhen-Hua  and
+              Zhang, Ningyu  and
+              Gu, Jia-Chen",
+    booktitle = "Findings of the Association for Computational Linguistics: NAACL 2025",
+    year = "2025",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2025.findings-naacl.304/",
+    pages = "5499--5515"
 }
 ```
 
